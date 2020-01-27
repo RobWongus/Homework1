@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+    
 
 body {
     background-color: #d9dcd6;
@@ -224,3 +225,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media all (orientation: portrait), (orientation: landscape) (max-width: 156px) (min-width: 976)
