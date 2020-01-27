@@ -1,8 +1,19 @@
 # Homework1
 _________________________________________________________________
-###Editing a webpage to make it more accessible. 
+### Editing a webpage to make it clean and more accessible. 
+
+<!-- Headings  -->
+
+# Heading 1
 
 
+## Heading 2
+
+
+### Heading 3
+
+
+#### Heading 4 
 
 
 

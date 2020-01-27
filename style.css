@@ -85,6 +85,10 @@ p {
 
 /* This is the left section under the main image.  */
 
+.container {
+    max-block-size: 10px;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
